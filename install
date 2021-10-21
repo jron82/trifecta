@@ -1,1 +1,0 @@
-shards build && cp bin/trifecta /usr/local/bin/trifecta
